@@ -1,0 +1,3 @@
+Adapter
+
+Permite a colaboração de objetos de interfaces incompatíveis.
